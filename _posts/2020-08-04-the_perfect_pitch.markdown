@@ -7,7 +7,7 @@ permalink:  the_perfect_pitch
 
 Hello tech world, this is Chef Tharon learning how to blog! I've been cooking my whole life, I come from a family of chefs, food is life, passion, harmony, creativity and love. At least that's what I thought... 
 
-Over the past 10 years I have been in every kind of kitchen, from 24-hour dinner to one of the top fine dining steak houses in the US. I was the executive sous chef at the oldest country club west of the Mississippi river and till just recently the executive of a high-end hotel and spa. I'd like to think I've been pretty successful as a Chef but that didn’t come without a toll both physically and mentally.
+Over the past 10 years I have been in every kind of kitchen, from 24-hour diner to one of the top fine dining steak houses in the US. I was the executive sous chef at the oldest country club west of the Mississippi river and till just recently the executive of a high-end hotel and spa. I'd like to think I've been pretty successful as a Chef but that didn’t come without a toll both physically and mentally.
 
 Which leads us here. As I get older and my family gets bigger, time and quality of life becomes more and more valuable. The 15 hour shifts of dealing with high stress levels and knowing that the next day would be no different has to come to an end. I'm tired, I'm sore, and I miss my family. Que the light bulb. 
 
