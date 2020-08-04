@@ -1,11 +1,11 @@
 # Site settings
-author: Tharon Weighill
-title: 
+author: Tharon P Weighill
+title: Delicous Tech
 header-img: img/home-bg.png
 email: tharonweighill@gmail.com
-copyright_name: Tharon Weighill
+copyright_name: Tharon P Weighill
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Chef to Tech
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TharonWeighill
